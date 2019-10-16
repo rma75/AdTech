@@ -1,0 +1,1762 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<vmap:VMAP xmlns:vmap="http://www.iab.net/vmap-1.0" version="1.0">
+<vmap:AdBreak breakId="cue_point-609379515" breakType="linear" timeOffset="00:09:48">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="1">
+<vmap:VASTAdData>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="36311842.140133903367168" sequence="1">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>707440_INDEED_INDEED.CO.UK_AllVod_Oct19_Guaranteed</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_36311842.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=defaultImpression&et=i&_cc=36311842,20592891,,,1571217601,1&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=331&cr=http%3A//ad.doubleclick.net/ddm/trackimp/N568801.275655SKY/B22310769.256192652%3Bdc_trk_aid%3D452436547%3Bdc_trk_cid%3D112373875%3Bord%3D1341426737%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_36311842.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1341426737&de=1341426737&d=773563%3A36311833%3A36311840%3A5715061&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="36311842" id="5715061">
+<Linear>
+<Duration>00:00:20</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=332
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1341426737&de=1341426737&d=773563%3A36311833%3A36311840%3A5715061&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=333
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1341426737&de=1341426737&d=773563%3A36311833%3A36311840%3A5715061&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=334
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1341426737&de=1341426737&d=773563%3A36311833%3A36311840%3A5715061&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=complete&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=335
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1341426737&de=1341426737&d=773563%3A36311833%3A36311840%3A5715061&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=_close&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_36311842.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36311842&reid=20592891&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=588&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N568801.275655SKY/B22310769.256192652%3Bdc_trk_aid%3D452436547%3Bdc_trk_cid%3D112373875%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="20592891" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/10/490036/c5-hls/490036_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="36341413.140133903367936" sequence="2">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+708634_SAMSUNG ELECTRONICS_SAMSUNG 5G_AllVod_Oct19_Guaranteed_TV VOD Barb Region London
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_36341413.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=defaultImpression&et=i&_cc=36341413,18861060,,,1571217601,1&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=331&cr=http%3A//ad.doubleclick.net/ddm/trackimp/N781874.275655SKY/B23185994.254961815%3Bdc_trk_aid%3D451344241%3Bdc_trk_cid%3D97329800%3Bord%3D1199819552%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_36341413.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1199819552&de=1199819552&d=289867%3A36341408%3A36341411%3A5388642&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="36341413" id="5388642">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=332
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1199819552&de=1199819552&d=289867%3A36341408%3A36341411%3A5388642&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=333
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1199819552&de=1199819552&d=289867%3A36341408%3A36341411%3A5388642&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=334
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1199819552&de=1199819552&d=289867%3A36341408%3A36341411%3A5388642&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=complete&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=335
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1199819552&de=1199819552&d=289867%3A36341408%3A36341411%3A5388642&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=_close&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_36341413.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36341413&reid=18861060&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=588&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N781874.275655SKY/B23185994.254961815%3Bdc_trk_aid%3D451344241%3Bdc_trk_cid%3D97329800%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="18861060" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/08/471529/c5-hls/471529_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="36254478.140133903366400" sequence="3">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+707288_VODAFONE GROUP_VODAFONE LIONHEART_AllVod_Oct19_Guaranteed
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_36254478.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=defaultImpression&et=i&_cc=36254478,19190307,,,1571217601,1&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=331&cr=
+]]>
+</Impression>
+<Impression id="FWi_36254478.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1397541166&de=1397541166&d=289545%3A36254466%3A36254476%3A5447320&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="36254478" id="5447320">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=332
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1397541166&de=1397541166&d=289545%3A36254466%3A36254476%3A5447320&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=333
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1397541166&de=1397541166&d=289545%3A36254466%3A36254476%3A5447320&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=334
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1397541166&de=1397541166&d=289545%3A36254466%3A36254476%3A5447320&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=complete&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=335
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1397541166&de=1397541166&d=289545%3A36254466%3A36254476%3A5447320&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=_close&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_36254478.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36254478&reid=19190307&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=588&cr=http%3A//www.vodafone.co.uk/broadband-sim-only-deals
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="19190307" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/08/475217/c5-hls/475217_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="34409819.140133903360256" sequence="4">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>687956_CCS RAF_ALLVOD_My5 Only_Jul19</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_34409819.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=defaultImpression&et=i&_cc=34409819,18348533,,,1571217601,1&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=331&cr=http%3A//ad.doubleclick.net/ddm/trackimp/N6198.275655.SKY/B22970894.251285644%3Bdc_trk_aid%3D447492211%3Bdc_trk_cid%3D118831260%3Bord%3D254319710%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_34409819.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=254319710&de=254319710&d=427064%3A34409809%3A34409813%3A5285986&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="34409819" id="5285986">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=332
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=254319710&de=254319710&d=427064%3A34409809%3A34409813%3A5285986&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=333
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=254319710&de=254319710&d=427064%3A34409809%3A34409813%3A5285986&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=334
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=254319710&de=254319710&d=427064%3A34409809%3A34409813%3A5285986&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=complete&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=335
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=254319710&de=254319710&d=427064%3A34409809%3A34409813%3A5285986&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=_close&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_34409819.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=34409819&reid=18348533&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=588&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N6198.275655.SKY/B22970894.251285644%3Bdc_trk_aid%3D447492211%3Bdc_trk_cid%3D118831260%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="18348533" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/07/463664/c5-hls/463664_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="36151033.140133903365632" sequence="5">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+705805_BSH HOME APPLIANCES_BSH SIEMENS HH GOODS_AllVod_Sep19
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_36151033.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=defaultImpression&et=i&_cc=36151033,19427575,,,1571217601,1&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=331&cr=http%3A//ad.doubleclick.net/ddm/ad/N831858.275655SKY/B23218298.255529961%3Bsz%3D1x1%3Bord%3D1637034064%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_36151033.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1637034064&de=1637034064&d=289776%3A36151028%3A36151031%3A5490848&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="36151033" id="5490848">
+<Linear>
+<Duration>00:00:20</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=332
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1637034064&de=1637034064&d=289776%3A36151028%3A36151031%3A5490848&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=333
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1637034064&de=1637034064&d=289776%3A36151028%3A36151031%3A5490848&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=334
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1637034064&de=1637034064&d=289776%3A36151028%3A36151031%3A5490848&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=complete&et=i&_cc=&tpos=588&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=335
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1637034064&de=1637034064&d=289776%3A36151028%3A36151031%3A5490848&bo=g678964&bd=7070615&zMoatSDH=20&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=_close&et=s&_cc=&tpos=588
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_36151033.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36151033&reid=19427575&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=588&cr=http%3A//ad.doubleclick.net/ddm/clk/451771104%3B255529961%3Bj
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="19427575" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/09/478200/c5-hls/478200_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
+</vmap:VASTAdData>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&cn=slotImpression&et=i&tpos=588&init=1&slid=4,5,6,7,8
+]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&cn=slotEnd&et=i&tpos=588&init=1&slid=4,5,6,7,8
+]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+<vmap:AdBreak breakId="0.0.0.1402210637" breakType="linear" timeOffset="start">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="2">
+<vmap:VASTAdData>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="35386257.140133903361024" sequence="1">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+698657_LLOYDS BANKING GROUP_LLOYDS EPIC JOURNEY_AllVod_Sep19_Guaranteed
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_35386257.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=defaultImpression&et=i&_cc=35386257,19575267,,,1571217601,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=336&cr=http%3A//ad.doubleclick.net/ddm/trackimpi/N6010.275655SKY/B23003799.252768046%3Bdc_trk_aid%3D448901430%3Bdc_trk_cid%3D119813775%3Bord%3D915079410%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_35386257.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=915079410&de=915079410&d=289802%3A35386234%3A35386256%3A5517736&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="35386257" id="5517736">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=337
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=915079410&de=915079410&d=289802%3A35386234%3A35386256%3A5517736&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=338
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=915079410&de=915079410&d=289802%3A35386234%3A35386256%3A5517736&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=339
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=915079410&de=915079410&d=289802%3A35386234%3A35386256%3A5517736&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=340
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=915079410&de=915079410&d=289802%3A35386234%3A35386256%3A5517736&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_35386257.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35386257&reid=19575267&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N6010.275655SKY/B23003799.252768046%3Bdc_trk_aid%3D448901430%3Bdc_trk_cid%3D119813775%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="19575267" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/09/479930/c5-hls/479930_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="36608924.140133903368704" sequence="2">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+711497_UBER_UBER_AllVod_Aug19_AD18-45_GEO: London only_My5
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_36608924.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=defaultImpression&et=i&_cc=36608924,15262427,,,1571217601,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=336&cr=http%3A//ad.doubleclick.net/ddm/trackimp/N197801.3147904SKYVODPLAYER0/B23067679.253300122%3Bdc_trk_aid%3D449227112%3Bdc_trk_cid%3D119994027%3Bord%3D1403312788%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_36608924.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1403312788&de=1403312788&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="36608924" id="4680383">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=337
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1403312788&de=1403312788&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=338
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1403312788&de=1403312788&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=339
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1403312788&de=1403312788&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=340
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1403312788&de=1403312788&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_36608924.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608924&reid=15262427&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N197801.3147904SKYVODPLAYER0/B23067679.253300122%3Bdc_trk_aid%3D449227112%3Bdc_trk_cid%3D119994027%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="15262427" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/03/426888/c5-hls/426888_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="35967649.140133903364864" sequence="3">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+704446_CCS_CCS I&C MICROGAPPING_AllVod_Sep19_AD1634_My5
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_35967649.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=defaultImpression&et=i&_cc=35967649,19189915,,,1571217601,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=336&cr=http%3A//ad.doubleclick.net/ddm/trackimp/N6198.140413.SKYMEDIA/B23139134.254491219%3Bdc_trk_aid%3D450487466%3Bdc_trk_cid%3D120802845%3Bord%3D654727764%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_35967649.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=654727764&de=654727764&d=427064%3A35967645%3A35967648%3A5447239&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="35967649" id="5447239">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=337
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=654727764&de=654727764&d=427064%3A35967645%3A35967648%3A5447239&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=338
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=654727764&de=654727764&d=427064%3A35967645%3A35967648%3A5447239&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=339
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=654727764&de=654727764&d=427064%3A35967645%3A35967648%3A5447239&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=340
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=654727764&de=654727764&d=427064%3A35967645%3A35967648%3A5447239&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_35967649.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35967649&reid=19189915&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N6198.140413.SKYMEDIA/B23139134.254491219%3Bdc_trk_aid%3D450487466%3Bdc_trk_cid%3D120802845%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="19189915" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/08/475215/c5-hls/475215_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="35864389.140133903362560" sequence="4">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+703350_TESCO STORES_TESCO MOBILE_AllVod_Oct19_Guaranteed
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_35864389.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=defaultImpression&et=i&_cc=35864389,19820400,,,1571217601,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=336&cr=http%3A//ad.doubleclick.net/ddm/trackimp/N5260.275655.SKY/B23266033.256610578%3Bdc_trk_aid%3D452551339%3Bdc_trk_cid%3D122143028%3Bord%3D365710972%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_35864389.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=365710972&de=365710972&d=289491%3A35864385%3A35864388%3A5562871&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="35864389" id="5562871">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=337
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=365710972&de=365710972&d=289491%3A35864385%3A35864388%3A5562871&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=338
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=365710972&de=365710972&d=289491%3A35864385%3A35864388%3A5562871&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=339
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=365710972&de=365710972&d=289491%3A35864385%3A35864388%3A5562871&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=340
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=365710972&de=365710972&d=289491%3A35864385%3A35864388%3A5562871&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_35864389.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35864389&reid=19820400&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N5260.275655.SKY/B23266033.256610578%3Bdc_trk_aid%3D452551339%3Bdc_trk_cid%3D122143028%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="19820400" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/09/481854/c5-hls/481854_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
+</vmap:VASTAdData>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&cn=slotImpression&et=i&tpos=0&init=1&slid=0,1,2,3
+]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&cn=slotEnd&et=i&tpos=0&init=1&slid=0,1,2,3
+]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+<vmap:AdBreak breakId="0.1.0.1960458210" breakType="linear" timeOffset="end">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="3">
+<vmap:VASTAdData>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="36608926.140133903369472" sequence="1">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+711497_UBER_UBER_AllVod_Aug19_AD18-45_GEO: London only_My5
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_36608926.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=defaultImpression&et=i&_cc=36608926,15262427,,,1571217601,1&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=326&cr=http%3A//ad.doubleclick.net/ddm/trackimp/N197801.3147904SKYVODPLAYER0/B23067679.253300122%3Bdc_trk_aid%3D449227112%3Bdc_trk_cid%3D119994027%3Bord%3D805933686%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_36608926.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=805933686&de=805933686&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="36608926" id="4680383">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=327
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=805933686&de=805933686&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=328
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=805933686&de=805933686&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=329
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=805933686&de=805933686&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=330
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=805933686&de=805933686&d=692236%3A36608920%3A36608923%3A4680383&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=_close&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_36608926.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=36608926&reid=15262427&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1240&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N197801.3147904SKYVODPLAYER0/B23067679.253300122%3Bdc_trk_aid%3D449227112%3Bdc_trk_cid%3D119994027%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="15262427" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/03/426888/c5-hls/426888_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="35853064.140133903361792" sequence="2">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+703117_SUBWAY_SUBWAY HFSS_MY5VOD_ALLVOD_1634_Oct19_Guaranteed_SkyGo/TV VOD Adults 16-34
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_35853064.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=defaultImpression&et=i&_cc=35853064,20288636,,,1571217601,1&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=326&cr=http%3A//ad.doubleclick.net/ddm/ad/N5960.1822157.GO.SKY.COM1/B23314142.257410759%3Bsz%3D1x1%3Bord%3D800170495%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_35853064.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=800170495&de=800170495&d=294522%3A35853020%3A35853061%3A5646316&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="35853064" id="5646316">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=327
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=800170495&de=800170495&d=294522%3A35853020%3A35853061%3A5646316&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=328
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=800170495&de=800170495&d=294522%3A35853020%3A35853061%3A5646316&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=329
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=800170495&de=800170495&d=294522%3A35853020%3A35853061%3A5646316&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=330
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=800170495&de=800170495&d=294522%3A35853020%3A35853061%3A5646316&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=_close&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_35853064.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35853064&reid=20288636&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1240&cr=http%3A//ad.doubleclick.net/ddm/clk/453304195%3B257410759%3Bj
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="20288636" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/10/487391/c5-hls/487391_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="35918668.140133903364096" sequence="3">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+700244_TALKTALK TELECOM_TALK TALK BROADBAND_AllVod_SKYVOD_Oct19_
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_35918668.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=defaultImpression&et=i&_cc=35918668,19886811,,,1571217601,1&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=326&cr=http%3A//ad.doubleclick.net/ddm/ad/N9455.275655SKY/B23004622.251274512%3Bsz%3D1x1%3Bord%3D1424687132%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_35918668.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1424687132&de=1424687132&d=562519%3A35799244%3A35799258%3A5574508&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="35918668" id="5574508">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=327
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1424687132&de=1424687132&d=562519%3A35799244%3A35799258%3A5574508&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=328
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1424687132&de=1424687132&d=562519%3A35799244%3A35799258%3A5574508&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=329
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1424687132&de=1424687132&d=562519%3A35799244%3A35799258%3A5574508&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=330
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1424687132&de=1424687132&d=562519%3A35799244%3A35799258%3A5574508&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=_close&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_35918668.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35918668&reid=19886811&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1240&cr=http%3A//ad.doubleclick.net/ddm/clk/447634857%3B251274512%3Bm
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="19886811" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/09/482532/c5-hls/482532_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="35886289.140133903363328" sequence="4">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>
+703450_EVERYTHING EVERYWHER_EE BATTERSEA EM_AllVod_Oct19_Guaranteed
+</AdTitle>
+<Error>
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10163&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_35886289.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=8192&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=defaultImpression&et=i&_cc=35886289,20093154,,,1571217601,1&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=147447762&ssid=7070615&pingids=326&cr=https%3A//ad.doubleclick.net/ddm/trackimp/N6580.275655.SKY/B23195301.255545271%3Bdc_trk_aid%3D451638956%3Bdc_trk_cid%3D121535125%3Bord%3D163535576%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_35886289.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=163535576&de=163535576&d=562504%3A35886283%3A35886286%3A5610869&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="35886289" id="5610869">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=327
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=163535576&de=163535576&d=562504%3A35886283%3A35886286%3A5610869&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=328
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=163535576&de=163535576&d=562504%3A35886283%3A35886286%3A5610869&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&absid=10163&trigid=53&kv=_fw_impression_map%3D4729&pingids=329
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=163535576&de=163535576&d=562504%3A35886283%3A35886286%3A5610869&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1240&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=330
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=163535576&de=163535576&d=562504%3A35886283%3A35886286%3A5610869&bo=g678964&bd=7070615&zMoatSDH=30&zMoatDevice=Apple%20TV%20Demand%205&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=_close&et=s&_cc=&tpos=1240
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_35886289.0">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&r=144750&adid=35886289&reid=20093154&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1240&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N6580.275655.SKY/B23195301.255545271%3Bdc_trk_aid%3D451638956%3Bdc_trk_cid%3D121535125%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="20093154" type="application/x-mpegURL" width="0">
+<![CDATA[
+https://c5ads.ott.skymedia.co.uk/2019/09/484924/c5-hls/484924_c5-hls.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
+</vmap:VASTAdData>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&cn=slotImpression&et=i&tpos=1240&init=1&slid=9,10,11,12
+]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[
+https://2356e.v.fwmrm.net/ad/l/1?s=g092&n=144750%3B144750%3B394492&t=1571217601645542029&f=&cn=slotEnd&et=i&tpos=1240&init=1&slid=9,10,11,12
+]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+</vmap:VMAP>

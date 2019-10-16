@@ -1,0 +1,81 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="36401565.140127240480000">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>709804_TOYOTA GB_TOYOTA C HR_SkyGoLinea_Oct19_6VOD</AdTitle>
+<Impression id="FWi_36401565.0">
+<![CDATA[
+http://2356e.v.fwmrm.net/ad/l/1?s=g042&n=144750%3B144750%3B394492&t=1571218335650535017&f=8192&r=144750&adid=36401565&reid=20758031&arid=0&auid=&cn=defaultImpression&et=i&_cc=36401565,20758031,,,1571218336,1&tpos=0&iw=&uxnw=144750&uxss=vg9401168&uxct=4&metr=7&init=1&vcid2=46cf5361545f14592ab41f3e485096baface179c&asid=110636123&ssid=1538454&pingids=926&cr=http%3A//ad.doubleclick.net/ddm/trackimp/N9238.275655SKY/B23268730.256836139%3Bdc_trk_aid%3D452765659%3Bdc_trk_cid%3D120059964%3Bord%3D1919140626%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3F
+]]>
+</Impression>
+<Impression id="FWi_36401565.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1919140626&de=1919140626&d=289957%3A36401560%3A36401563%3A5756601&bo=g572648&bd=1538454&zMoatSDH=6&zMoatDevice=SkyGoLinear%3AAndroid%3ADevices&zMoatSlot=preroll&zMoatAdUnit=55918&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="36401565" id="5756601">
+<Linear>
+<Duration>00:00:06</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+http://2356e.v.fwmrm.net/ad/l/1?s=g042&n=144750%3B144750%3B394492&t=1571218335650535017&f=&r=144750&adid=36401565&reid=20758031&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&iw=&uxnw=144750&uxss=vg9401168&uxct=4&metr=7&pingids=927
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1919140626&de=1919140626&d=289957%3A36401560%3A36401563%3A5756601&bo=g572648&bd=1538454&zMoatSDH=6&zMoatDevice=SkyGoLinear%3AAndroid%3ADevices&zMoatSlot=preroll&zMoatAdUnit=55918&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+http://2356e.v.fwmrm.net/ad/l/1?s=g042&n=144750%3B144750%3B394492&t=1571218335650535017&f=&r=144750&adid=36401565&reid=20758031&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&iw=&uxnw=144750&uxss=vg9401168&uxct=4&metr=7&pingids=928
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1919140626&de=1919140626&d=289957%3A36401560%3A36401563%3A5756601&bo=g572648&bd=1538454&zMoatSDH=6&zMoatDevice=SkyGoLinear%3AAndroid%3ADevices&zMoatSlot=preroll&zMoatAdUnit=55918&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+http://2356e.v.fwmrm.net/ad/l/1?s=g042&n=144750%3B144750%3B394492&t=1571218335650535017&f=&r=144750&adid=36401565&reid=20758031&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&iw=&uxnw=144750&uxss=vg9401168&uxct=4&metr=7&absid=10163&trigid=53&kv=_fw_impression_map%3D5187&pingids=929
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1919140626&de=1919140626&d=289957%3A36401560%3A36401563%3A5756601&bo=g572648&bd=1538454&zMoatSDH=6&zMoatDevice=SkyGoLinear%3AAndroid%3ADevices&zMoatSlot=preroll&zMoatAdUnit=55918&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+http://2356e.v.fwmrm.net/ad/l/1?s=g042&n=144750%3B144750%3B394492&t=1571218335650535017&f=&r=144750&adid=36401565&reid=20758031&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&iw=&uxnw=144750&uxss=vg9401168&uxct=4&metr=7&pingids=930
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1919140626&de=1919140626&d=289957%3A36401560%3A36401563%3A5756601&bo=g572648&bd=1538454&zMoatSDH=6&zMoatDevice=SkyGoLinear%3AAndroid%3ADevices&zMoatSlot=preroll&zMoatAdUnit=55918&ott=1&cs=0
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="FWc_36401565.0">
+<![CDATA[
+http://2356e.v.fwmrm.net/ad/l/1?s=g042&n=144750%3B144750%3B394492&t=1571218335650535017&f=&r=144750&adid=36401565&reid=20758031&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=http%3A//ad.doubleclick.net/ddm/trackclk/N9238.275655SKY/B23268730.256836139%3Bdc_trk_aid%3D452765659%3Bdc_trk_cid%3D120059964%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile bitrate="7849" delivery="progressive" height="720" id="20758031" type="video/mp4" width="1280">
+<![CDATA[
+http://cdn.honeycomb.tv/2019/10/14/194291/destination_masters/7ac6365a-0120-4bf3-8449-c8fac175fc94.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
