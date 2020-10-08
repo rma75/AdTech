@@ -1,0 +1,13 @@
+<VAST version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="AVXWrapper123455">
+<Wrapper>
+<AdSystem>AVXWrapper</AdSystem>
+<VASTAdTagURI>
+<![CDATA[https://raw.githubusercontent.com/rma75/AdTech/master/VAST_allCreatives.xml]]>
+</VASTAdTagURI>
+<Creatives>
+<Creative AdID="AAA/AAAA001/010" id="AAA/AAAA001/010">
+</Creative>
+</Creatives>
+</Wrapper>
+</Ad>
