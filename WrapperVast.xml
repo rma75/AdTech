@@ -5,9 +5,7 @@
 <VASTAdTagURI>
 <![CDATA[https://raw.githubusercontent.com/rma75/AdTech/master/VAST_allCreatives.xml]]>
 </VASTAdTagURI>
-<Creatives>
-<Creative AdID="AAA/AAAA001/010" id="AAA/AAAA001/010">
-</Creative>
-</Creatives>
+<Impression id="SkyAVX-123456789">
+</Impression>
 </Wrapper>
 </Ad>
