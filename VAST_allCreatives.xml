@@ -1,0 +1,80 @@
+<VAST version="3.0">
+<Ad id="ClockNo/HVLID">
+<InLine>
+<AdSystem>SkyAVX-123456789</AdSystem>
+<AdTitle/>
+<Description/>
+<Error/>
+<Impression id="SkyAVX-123456789">
+</Impression>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:10</Duration>
+<MediaFiles>
+<MediaFile delivery="streaming" height="0" id="111111111" type="p-application/xml-ms-smoothstreaming" width="0">
+<![CDATA[
+http://c5ads-stage.ott.skymedia.co.uk/2020/09/c593eb7a-d898-4b95-8a0e-0ef7f165177d/14208/c5-ss/14208_c5-ss.ism/Manifest
+]]>
+</MediaFile>
+<MediaFile bitrate="1,543" delivery="progressive" height="544" id="222222222" type="	
+p-video/MP2T-H.264" width="576">
+<![CDATA[
+http://c5ads-stage.ott.skymedia.co.uk/2020/09/c593eb7a-d898-4b95-8a0e-0ef7f165177d/14208/c5-mp2ts/14208_c5-mp2ts-1.ts
+]]>
+</MediaFile>
+<MediaFile delivery="streaming" height="0" id="333333333" type="	
+p-application/x-mpegurl" width="0">
+<![CDATA[
+https://c5ads-stage.ott.skymedia.co.uk/2020/09/aea7bfeb-0487-4932-9dea-e186f316c49e/14208/c5-hls/14208_c5-hls.m3u8
+]]>
+</MediaFile>
+<MediaFile bitrate="436" delivery="progressive" height="270" id="444444444" type="p-video/mp4-h264" width="480">
+<![CDATA[
+https://c5ads-stage.ott.skymedia.co.uk/2020/09/aea7bfeb-0487-4932-9dea-e186f316c49e/14208/c5-mp4/14208_c5-mp4-2.mp4
+]]>
+</MediaFile>
+<MediaFile bitrate="966" delivery="progressive" height="360" id="555555555" type="p-video/mp4-h264" width="640">
+<![CDATA[
+https://c5ads-stage.ott.skymedia.co.uk/2020/09/aea7bfeb-0487-4932-9dea-e186f316c49e/14208/c5-mp4/14208_c5-mp4-3.mp4
+]]>
+</MediaFile>
+<MediaFile bitrate="1,726" delivery="progressive" height="468" id="666666666" type="p-video/mp4-h264" width="832">
+<![CDATA[
+https://c5ads-stage.ott.skymedia.co.uk/2020/09/aea7bfeb-0487-4932-9dea-e186f316c49e/14208/c5-mp4/14208_c5-mp4-4.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="streaming" height="0" id="777777777" type="ottvod-application/x-mpegurl" width="0">
+<![CDATA[
+http://skyads-stage.ott.skymedia.co.uk/2020/09/caf5c559-021e-4d79-8083-53ea0221a080/14208/sky-hls/14208_sky-hls.m3u8
+]]>
+</MediaFile>
+<MediaFile delivery="streaming" height="0" id="8888888888" type="ottvod-application/xml-ms-smoothstreaming" width="0">
+<![CDATA[
+http://skyads-stage.ott.skymedia.co.uk/2020/09/caf5c559-021e-4d79-8083-53ea0221a080/14208/sky-ss/14208_sky-ss.ism
+]]>
+</MediaFile>
+<MediaFile bitrate="1182" delivery="progressive" height="270" id="9999999999" type="ottvod-video/mp4-h264" width="768">
+<![CDATA[
+http://skyads-stage.ott.skymedia.co.uk/2020/09/caf5c559-021e-4d79-8083-53ea0221a080/14208/sky-mp4/14208_sky-mp4-1.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="streaming" height="1080" id="1010101010" type="	
+application/mxf" width="1920">
+<![CDATA[
+http://cdn.hexagonalwax.com/2020/09/29/9900/destination_masters/b42a0b75-303d-4a70-b7e0-e8d760801550.mxf
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extension type="ExternalIdentification"> 
+<Identification namespace="ClearCast" creativeId="SkyAVX-123456789">
+<![CDATA[AAA/AAAA001/010]]>
+</Identification> 
+</Extension> 
+</Extensions> 
+</InLine>
+</Ad>
+</VAST>
